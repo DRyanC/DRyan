@@ -6,7 +6,7 @@
 
 *Mechatronics Engineering Student*
 
-Hi there! I’m Ryan, I’m a Mechatronics Engineering student diving into machine learning and AI, looking to blend tech innovations with my gaming passion. I have a deep love for Monster Hunter World: Iceborne. With 549.9 hours of gameplay under my belt, I've immersed myself completely in the vibrant world of monster hunting. My journey through Iceborne has not only fueled my enthusiasm for the game but also on other games like Valorant, League of Legends, Teamfight Tactics. I also always hangout at my Discord Server "[GameStop](https://discord.gg/qAuWZJZqae)" chilling with our Lofi bot.
+Hi there! I’m Ryan, I’m a Mechatronics Engineering student diving into machine learning and AI, looking to blend tech innovations with my gaming passion. I have a deep love for Monster Hunter World: Iceborne. With 549.9 hours of gameplay under my belt, I've immersed myself completely in the vibrant world of monster hunting. My journey through Iceborne has not only fueled my enthusiasm for the game but also on other games like Valorant, League of Legends, Teamfight Tactics. I usually hangout at my Discord Server "[GameStop](https://discord.gg/qAuWZJZqae)" chilling with our Lofi bot.
 
 ---
 ### 🧰 Language and Tools
