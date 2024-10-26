@@ -27,7 +27,7 @@ Hi there! I’m Ryan, I’m a Mechatronics Engineering student diving into machi
 ### 📊 Stats
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kokoverse&label=Profile%20views&color=0e75b6&style=flat" alt="Kokoverse"/> </p>
 
-![Koko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kokoverse&show_icons=true&theme=gruvbox)
+![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DRyanCe&show_icons=true&theme=gruvbox)
 <details>
   <summary><h3> About me </h3></summary>
     Hee hee 🕺
