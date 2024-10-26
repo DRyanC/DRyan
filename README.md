@@ -1,4 +1,4 @@
-<img src="https://staticdelivery.nexusmods.com/mods/2531/images/3384/3384-1589127659-2076381627.gif" alt="MasterHead" width="100%">
+
 
 
 
